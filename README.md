@@ -1,4 +1,4 @@
-# Discord Bot for Monitoring and Restoring Channels and Roles
+# ANTI-RAID BOT WITH CHANNEL REBACK
 
 This is a Python-based Discord bot that monitors actions related to channel and role deletions or creations in a Discord server. It can kick users who perform these actions excessively and restore deleted channels and roles.
 
